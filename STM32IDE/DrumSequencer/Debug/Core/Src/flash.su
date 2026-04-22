@@ -1,0 +1,3 @@
+../Core/Src/flash.c:13:9:Flash_SlotValid	24	static
+../Core/Src/flash.c:19:19:Flash_WritePreset	56	static
+../Core/Src/flash.c:52:6:Flash_ReadPreset	16	static

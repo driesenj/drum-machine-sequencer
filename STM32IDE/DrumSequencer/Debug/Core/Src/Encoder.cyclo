@@ -1,0 +1,6 @@
+../Core/Src/Encoder.c:18:12:Encoder_Add	2
+../Core/Src/Encoder.c:36:19:Encoder_Start	1
+../Core/Src/Encoder.c:43:9:Encoder_HasChanged	1
+../Core/Src/Encoder.c:47:9:Encoder_GetCount	1
+../Core/Src/Encoder.c:52:6:Encoder_Reset	1
+../Core/Src/Encoder.c:66:6:HAL_TIM_IC_CaptureCallback	5

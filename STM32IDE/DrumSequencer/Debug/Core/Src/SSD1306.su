@@ -1,0 +1,10 @@
+../Core/Src/SSD1306.c:10:13:_cmd	32	static
+../Core/Src/SSD1306.c:17:6:SSD1306_Init	16	static
+../Core/Src/SSD1306.c:67:6:SSD1306_Fill	16	static
+../Core/Src/SSD1306.c:72:6:SSD1306_Update	1048	static
+../Core/Src/SSD1306.c:87:6:SSD1306_DrawPixel	24	static
+../Core/Src/SSD1306.c:100:6:SSD1306_DrawHLine	32	static
+../Core/Src/SSD1306.c:106:6:SSD1306_DrawVLine	32	static
+../Core/Src/SSD1306.c:112:6:SSD1306_FillRect	32	static
+../Core/Src/SSD1306.c:217:6:SSD1306_DrawChar	40	static
+../Core/Src/SSD1306.c:233:6:SSD1306_DrawString	32	static

@@ -1,0 +1,14 @@
+../Core/Src/MAX7219.c:18:20:CS_Low	16	static
+../Core/Src/MAX7219.c:23:20:CS_High	16	static
+../Core/Src/MAX7219.c:36:13:_sendChain	32	static,ignoring_inline_asm
+../Core/Src/MAX7219.c:63:13:_sendChainSame	24	static
+../Core/Src/MAX7219.c:72:6:MAX7219_init	16	static
+../Core/Src/MAX7219.c:110:6:MAX7219_setPixel	16	static
+../Core/Src/MAX7219.c:123:6:MAX7219_flushRow	24	static
+../Core/Src/MAX7219.c:134:6:MAX7219_flushChain	24	static
+../Core/Src/MAX7219.c:142:6:MAX7219_flushAll	16	static
+../Core/Src/MAX7219.c:149:6:MAX7219_clearChain	16	static
+../Core/Src/MAX7219.c:155:6:MAX7219_clearBuffer	8	static
+../Core/Src/MAX7219.c:162:6:MAX7219_demo_allOn	16	static
+../Core/Src/MAX7219.c:171:6:MAX7219_demo_checkerboard	24	static
+../Core/Src/MAX7219.c:180:6:MAX7219_demo_scroll	16	static

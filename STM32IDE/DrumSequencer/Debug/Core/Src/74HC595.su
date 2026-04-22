@@ -1,0 +1,7 @@
+../Core/Src/74HC595.c:19:20:HC595_latch	8	static,ignoring_inline_asm
+../Core/Src/74HC595.c:29:6:HC595_init	16	static
+../Core/Src/74HC595.c:38:6:HC595_write	24	static
+../Core/Src/74HC595.c:56:6:HC595_writeAll	24	static
+../Core/Src/74HC595.c:67:6:HC595_setBit	16	static
+../Core/Src/74HC595.c:82:6:HC595_clear	16	static
+../Core/Src/74HC595.c:91:6:HC595_getShadow	16	static
